@@ -1,0 +1,24 @@
+.ADDCardCaro-Main img{
+    height: 400px !important;
+    width: 100%;
+    background-color: gray;
+}
+.CAROButtons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4px;
+}
+.CAROButtons button{
+    border: none;
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 14px;
+    color: #191919;
+}
+.CAROButtons button:hover{
+    color: #38BDF8;
+}
+ul{
+    padding: 0;
+}
